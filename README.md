@@ -1,4 +1,5 @@
 # E-commerce domain sample 
+[![Build status](https://travis-ci.org/seedstack/ecommerce-domain-sample.svg?branch=master)](https://travis-ci.org/seedstack/ecommerce-domain-sample)
 
 A reusable model of a very simple e-commerce domain.
 
