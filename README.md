@@ -1,4 +1,4 @@
-# SeedStack ecommerce domain sample 
+# E-commerce domain sample 
 
 Sample domain model of a very simple e-commerce bounded-context.
 
