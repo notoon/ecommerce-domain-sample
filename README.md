@@ -1,6 +1,14 @@
 # E-commerce domain sample 
 
-Sample domain model of a very simple e-commerce bounded-context.
+A reusable model of a very simple e-commerce domain.
+
+# Build it
+
+If you have [Maven 3](http://maven.apache.org/) installed, you can clone the repository and build it locally:
+
+    git clone https://github.com/seedstack/ecommerce-domain-sample.git
+    cd ecommerce-domain-sample
+    mvn clean install 
 
 # Copyright and license
 
